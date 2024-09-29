@@ -2,7 +2,8 @@ public class Car {
     String name;
     String color;
     double pailiang;
-
+    
+    //类的属性
     //类的属性跟对象无关，只跟类有关
     //静态的属性
     static int wheelNum=4;
